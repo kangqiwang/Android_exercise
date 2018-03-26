@@ -310,3 +310,35 @@ SharedPreferences
 1. Context  getSharePreferences()
 2. Activity getSharePreferences()
 3. Preferences getDefaultSharedPreferences()
+
+# Our project for NHS
+
+some suggestion for my dissertation:
+
+- central project back end database with data extraction facility
+ 
+- central tool to generate and disseminate messages to individual users or groups of users
+
+- app data holder in each mobile phone
+ 
+- communication between app and central database
+ 
+- user display interface for data
+
+- interface to receive and display messages from central database
+ 
+- interface to receive messages from other users (one or many)
+
+- interface to add friends to peer group
+
+database:
+
+
+users_id | steps | groups | comments
+
+
+account | password | users_id
+
+the **data holder** will be hold in mobile and it will post on service.
+
+the **users** will allow to login in their facebook account or twitter account or google account.
